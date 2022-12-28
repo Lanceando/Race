@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include <conio.h> // чтобы отследить нажата ли клавиша
 #include <ctime> // чтобы сделать рандомное число
-#include "game.h"
+#include <game.h>
 
 using namespace sf;
 
